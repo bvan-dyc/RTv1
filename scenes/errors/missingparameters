@@ -1,0 +1,10 @@
+Light
+{
+	pos:(540, 360, -1000)
+	rgb:(255, 255, 255)
+}
+Sphere
+{
+	radius: 100
+	reflect: 20
+}

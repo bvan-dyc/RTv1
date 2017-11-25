@@ -1,0 +1,36 @@
+Light
+{
+	pos:(0, 240, -100)
+	rgb:(255, 255, 255)
+}
+Light
+{
+	pos:(3200, 3000, -1000)
+	rgb:(153, 179, 255)
+}
+Light
+{
+	pos:(600, 0, -1000)
+	rgb:(77, 128, 255)
+}
+Sphere
+{
+	pos:(200, 300, 0)
+	rgb:(255, 0, 0)
+	radius: 100
+	reflect: 20
+}
+Sphere
+{
+	pos:(400, 400, 0)
+	rgb:(0, 255, 0)
+	radius: 80
+	reflect: 50
+}
+Sphere
+{
+	pos:(500, 140, 0)
+	rgb:(0, 0, 255)
+	radius: 100
+	reflect: 90
+}
