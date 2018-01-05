@@ -8,12 +8,8 @@ cd ~/RTv1
 ./RTv1 scenes/LSCoCy'
 ```
 ## Features
-### Objects
 - 4 basic shapes (Sphere, Cone, Cylinder, Plane)
-### Scene Descriptor
-- Txt Scene descriptor
-
-### Light
+- Scene descriptor
 - Different Brightness
 - Shadows
 - Multiple light spots
