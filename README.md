@@ -2,8 +2,11 @@
 A simple raytracing program that handles basic shapes. Part of the graphic branch of the 42 cursus.
 
 ## Usage
+
 git clone https://github.com/bvan-dyc/RTv1 ~/RTv1
+
 cd ~/RTv1
+
 ./RTv1 scenes/LSCoCy
 
 ## Features
