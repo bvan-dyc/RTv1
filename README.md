@@ -5,7 +5,7 @@ A simple raytracing program that handles basic shapes. Part of the graphic branc
 ```
 git clone https://github.com/bvan-dyc/RTv1 ~/RTv1
 cd ~/RTv1
-./RTv1 scenes/LSCoCy'
+./RTv1 <scene>
 ```
 ## Features
 - 4 basic shapes (Sphere, Cone, Cylinder, Plane)
